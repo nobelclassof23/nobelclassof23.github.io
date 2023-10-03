@@ -31,7 +31,7 @@ body h1{
     background-color: rgb(28, 28, 28);
 }
 li a{
-    color: rgb(249, 248, 248);
+    color: rgb(255, 255, 255);
     padding: 14px 25px;
     text-decoration: none;
     position: absolute;
@@ -60,7 +60,7 @@ a.active,a:hover{
 
     }
     li a{
-        color: rgb(249, 248, 248);
+        color: rgb(254, 253, 253);
         padding: 14px 25px;
         text-decoration: none;
         position: absolute;
@@ -68,7 +68,7 @@ a.active,a:hover{
         bottom: 10%;
         margin-left: 25%;
     }
-    a.active,a:hover{
+    a.active{
         background-color:rgb(231, 50, 255);
         transition: 0.5s;
     }
