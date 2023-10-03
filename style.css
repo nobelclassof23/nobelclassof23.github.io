@@ -190,7 +190,7 @@ a.active,a:hover{
         margin-left: 28%;
     }
     .banner {
-        background-size: contain;
+        background-size: absolute;
 
     }
     li a{
